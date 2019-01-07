@@ -1,9 +1,9 @@
 
 # Project_Drone_Sous_Marin
-Conception et réalisation du drone sous marin
+Conception et réalisation du drone sous-marin
 
 ## Télécommande: 
-Carte Mére: Damien Nouhant
+Carte Mère: Damien Nouhant
 
 Affichage écran/Alimentation: Thomas Coutant
 
@@ -14,6 +14,6 @@ Déplacement: Clément Millereux
 
 Carte-Mère: Marc-Antoine Woodcock
 
-Caméra/Envoie Video: Thomas Coutant
+Caméra/Envoi Video: Thomas Coutant
 
 Communication/Alimentation: Eric Rebillon
